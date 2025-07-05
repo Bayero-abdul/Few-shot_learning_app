@@ -34,8 +34,8 @@ This is a lightweight interactive app built with **Streamlit** and **Google's Ge
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/gemini-prompt-playground.git
-cd gemini-prompt-playground
+git clone https://github.com/YOUR_USERNAME/few-shot_learning_app.git
+cd few-shot_learning_app
 ```
 
 ### 2. (Optional) Create a Virtual Environment

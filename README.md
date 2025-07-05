@@ -34,7 +34,7 @@ This is a lightweight interactive app built with **Streamlit** and **Google's Ge
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/few-shot_learning_app.git
+git clone https://github.com/Bayero-abdul/Few-shot_learning_app.git
 cd few-shot_learning_app
 ```
 
